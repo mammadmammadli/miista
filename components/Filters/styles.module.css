@@ -1,0 +1,19 @@
+.modal {
+  width: 540px;
+  padding: 61px 60px;
+}
+
+.close {
+  top: 22px;
+  right: 22px;
+}
+
+.color {
+  height: 18px;
+  width: 18px;
+}
+
+.activeColor {
+  box-shadow: 0 0 0 1px black;
+  border: 2px solid white;
+}
